@@ -1,9 +1,11 @@
 package com.ambrosus.java.model.event;
 
 import lombok.AllArgsConstructor;
+import lombok.Getter;
 
 @AllArgsConstructor
 public class EventType {
+    @Getter
     private final String value;
 
     public static EventType Info = new EventType("ambrosus.asset.info");
