@@ -1,3 +1,3 @@
 # amb-java
 
-Ambrosus SDK for Java.  
+Unofficial Ambrosus SDK for Java. 
